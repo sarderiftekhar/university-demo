@@ -1,0 +1,3304 @@
+Uri: https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Schoolbell&family=Cinzel+Decorative:wght@400;700;900&family=Oxanium:wght@200..800&display=swap
+File Name: C:\Downloaded Web Sites\ordainit.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cinzeldecorative/v19/daaCSScvJGqLYhG8nNt8KPPswUAPnh7U.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\cinzeldecorative\v19\daaCSScvJGqLYhG8nNt8KPPswUAPnh7U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZoaelD.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\cinzeldecorative\v19\daaHSScvJGqLYhG8nNt8KPPswUAPniZoaelD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lD.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\cinzeldecorative\v19\daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0ENI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myjJAVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G80XfniM.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\oxanium\v21\RrQPboN_4yJ0JmiMUW7sIGjd1IA9G80XfniM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G817fniM.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\oxanium\v21\RrQPboN_4yJ0JmiMUW7sIGjd1IA9G817fniM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G81JfniM.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\oxanium\v21\RrQPboN_4yJ0JmiMUW7sIGjd1IA9G81JfniM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G82ueXiM.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\oxanium\v21\RrQPboN_4yJ0JmiMUW7sIGjd1IA9G82ueXiM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G82XeXiM.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\oxanium\v21\RrQPboN_4yJ0JmiMUW7sIGjd1IA9G82XeXiM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G83JeXiM.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\oxanium\v21\RrQPboN_4yJ0JmiMUW7sIGjd1IA9G83JeXiM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G83JfniM.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\oxanium\v21\RrQPboN_4yJ0JmiMUW7sIGjd1IA9G83JfniM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIVxI.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\s\schoolbell\v18\92zQtBZWOrcgoe-fgnJIVxI.ttf
+Content Type: font/ttf
+
+Uri: https://ordainit.com/html/educeet/educeet/404.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\404.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/about-us-v1.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\about-us-v1.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/about-us-v2.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\about-us-v2.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/about-us-v3.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\about-us-v3.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/about-us-v4.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\about-us-v4.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/about-us-v5.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\about-us-v5.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/custom-animation.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\custom-animation.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/font-awesome-pro.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\font-awesome-pro.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/main.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\main.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/nice-select.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/spacing.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\spacing.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Edensor-Regular.woff
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Edensor-Regular.woff
+Content Type: font/woff
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Edensor-Regular.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Edensor-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Edensor-Semibold.woff
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Edensor-Semibold.woff
+Content Type: font/woff
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Edensor-Semibold.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Edensor-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/NewYork.woff
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\NewYork.woff
+Content Type: font/woff
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/NewYork.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\NewYork.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-Bold.woff
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-Bold.woff
+Content Type: font/woff
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-Bold.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-Medium.woff
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-Medium.woff
+Content Type: font/woff
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-Medium.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-Regular.woff
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-Regular.woff
+Content Type: font/woff
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-Regular.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-SemiBold.woff
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/fonts/Spartan-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\fonts\Spartan-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-10-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-10-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-10-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-12-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-12-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-12-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-13-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-13-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-4-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-4-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-5-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-5-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-5-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-6-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-6-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-7-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-8-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-8-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-9-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-9-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/about/about-us-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\about\about-us-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-7.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-7.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/avatar-1-8.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\avatar-1-8.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/details-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\details-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/details-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\details-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/details-1-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\details-1-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/details-1-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\details-1-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/details-1-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\details-1-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/avatar/details-1-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\avatar\details-1-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-1-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-3-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-3-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-3-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-7-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-7-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-7-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-8-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-8-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-8-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-8-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-9-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-9-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/blog-9-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\blog-9-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/details-1-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\details-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/sidebar-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\sidebar-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/sidebar-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\sidebar-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/sidebar-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\sidebar-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/blog/sidebar-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\blog\sidebar-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-7.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-7.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-1-8.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-1-8.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-2-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-2-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-2-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-2-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-2-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-2-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-2-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-2-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-6-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-6-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-6-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-6-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-6-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-6-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-9-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-9-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-9-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-9-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-9-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-9-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-9-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-9-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/brand/brand-9-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\brand\brand-9-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/about-v3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\about-v3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/about-v4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\about-v4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/blog-grid.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\blog-grid.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/contact.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-details-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-details-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-details.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-details.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-v1-breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-v1-breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-v10-breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-v10-breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-v4-breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-v4-breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-v6-breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-v6-breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-v7-breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-v7-breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-v8-breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-v8-breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/course-v9-breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\course-v9-breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/event-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\event-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/event-details.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\event-details.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/shop.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\shop.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/breadcrumb/team.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\breadcrumb\team.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/campus/campus-3-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\campus\campus-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/campus/campus-3-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\campus\campus-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/campus/mask-2.svg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\campus\mask-2.svg
+Content Type: image/svg+xml
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-10-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-10-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-14-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-14-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-14-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-14-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-14-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-14-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-14-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-14-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-14-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-14-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-6-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-6-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-6-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-6-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/categories/categories-6-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\categories\categories-6-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/choose/choose-12-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\choose\choose-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/choose/choose-4-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\choose\choose-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/choose/choose-4-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\choose\choose-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/choose/choose-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\choose\choose-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/choose/choose-7-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\choose\choose-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/choose/choose-7-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\choose\choose-7-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/app-5-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\app-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/app-5-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\app-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/career-details.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\career-details.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/contact-5-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\contact-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/contact-me.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\contact-me.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/error.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\error.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-11-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-11-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-11-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-12-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-12-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-12-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-8-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-8-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-9-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/faq-9-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\faq-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/feature-8-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\feature-8-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/footer-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\footer-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/footer-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\footer-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/footer-14.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\footer-14.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/gallery-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/icon-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\icon-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/icon-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\icon-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/metting.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\metting.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/social-13-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\social-13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/social-13-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\social-13-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/social-13-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\social-13-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/social-13-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\social-13-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/contact/video-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\contact\video-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-1-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-10-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-10-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-11-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-11-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-12-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-12-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-2-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-2-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-4-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-4-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-5-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-5-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-5-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-5-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-5-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-5-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-5-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-6-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-6-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-7-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-7-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-8-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-8-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/course-9-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\course-9-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/details-v2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\details-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-10.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-10.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-7.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-7.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-8.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-8.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/flag-5-9.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\flag-5-9.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/course/language.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\course\language.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/cta/cta-13-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\cta\cta-13-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/cta/cta-14-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\cta\cta-14-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/cta/cta-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\cta\cta-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/cta/cta-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\cta\cta-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/cta/cta-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\cta\cta-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/cta/thumb.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\cta\thumb.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-1-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-11-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-11-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-11-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-11-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-11-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-2-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-2-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/event/event-6-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\event\event-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-10.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-10.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/gallery/gallery-4-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\gallery\gallery-4-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/avatar-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\avatar-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-10.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-10.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-11-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-11-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-12.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-12.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-13-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-13-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-14-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-14-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-14-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-14-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-14-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-14-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-7-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-9-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-9-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-9-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-9-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/hero-9-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\hero-9-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/mask-11.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\mask-11.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/mask.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\mask.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/ratting.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\ratting.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/thumb-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\thumb-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/hero/thumb-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\hero\thumb-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/favicon.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\favicon.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-black-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-black-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-black-sm.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-black-sm.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-black.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-black.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-brown.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-brown.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-fitness-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-fitness-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-fitness-black.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-fitness-black.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-fitness.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-fitness.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-green.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-green.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-white.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-white.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-yellow.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-yellow.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-yoga-black.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-yoga-black.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/logo-yoga.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\logo-yoga.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/pencil-upper.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\pencil-upper.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/logo/pencil.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\logo\pencil.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-10.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-10.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-11.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-11.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-12.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-12.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-13.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-13.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-14.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-14.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/menu/home-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\menu\home-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/feature-12-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\feature-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/feature-12-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\feature-12-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/feature-12-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\feature-12-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/portfolio/portfolio-13-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\portfolio\portfolio-13-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-10-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-10-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-10-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-10-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-12-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-12-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-3-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-3-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-3-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-3-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-3-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-3-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-3-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-3-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-4-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-4-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-4-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-4-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-5-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-5-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-6-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-6-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-6-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-6-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-7-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-7-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-7-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-7-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-7-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-7-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-7-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-7-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-8-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-8-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-8-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-8-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-8-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-8-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-8-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-8-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-9-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-9-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/about-9-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\about-9-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/activities-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\activities-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/activities-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\activities-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/activities-4-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\activities-4-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/activities-4-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\activities-4-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-3-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-3-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-4-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-4-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-7-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-7-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/blog-contact.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\blog-contact.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/border-line.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\border-line.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/border.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\border.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/brand-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\brand-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/brand-2-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\brand-2-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/brand-2-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\brand-2-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/brand-3-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\brand-3-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/breadcrumb-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\breadcrumb-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/breadcrumb-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\breadcrumb-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/breadcrumb-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\breadcrumb-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/breadcrumb-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\breadcrumb-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/categori-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\categori-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/categori-2-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\categori-2-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/categori-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\categori-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/categori-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\categori-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/categories-12-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\categories-12-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/categories-12-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\categories-12-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-10-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-10-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-12-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-12-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-4-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-4-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-4-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-4-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-7-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-7-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-7-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-7-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-bg-9-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-bg-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/choose-bg-9-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\choose-bg-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/contact-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\contact-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-12-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-12-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-12-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-12-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-2-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-2-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-2-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-2-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-3-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-3-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-3-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-3-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-3-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-3-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-8-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-8-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/course-8-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\course-8-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/cta-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\cta-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/cta-14-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\cta-14-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/cta-3-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\cta-3-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/cta-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\cta-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/error.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\error.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/faq-12-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\faq-12-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/faq-8-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\faq-8-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/feature-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\feature-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/feature-8-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\feature-8-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/feature-8-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\feature-8-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/feature-bg-10.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\feature-bg-10.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/feature-mask-10.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\feature-mask-10.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-10-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-10-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-2-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-2-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-3-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-3-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-3-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-3-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-8-bg.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-8-bg.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/footer-bg-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\footer-bg-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/funfact-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\funfact-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/funfact-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\funfact-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/funfact-7-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\funfact-7-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/funfact-8-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\funfact-8-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/funfact-bg-10.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\funfact-bg-10.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/funfact-bg-12.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\funfact-bg-12.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/gallary-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\gallary-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/gallary-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\gallary-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/gallary-4-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\gallary-4-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-1-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-1-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-1-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-1-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-1-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-1-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-10-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-10-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-11-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-11-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-11-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-11-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-11-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-11-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-11-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-11-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-12-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-12-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-12-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-12-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-12-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-12-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-13-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-13-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-13-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-13-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-2-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-2-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-4-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-4-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-4-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-4-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-4-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-4-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-4-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-4-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-5-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-5-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-5-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-5-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-6-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-6-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-6-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-6-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-6-7.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-6-7.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-7-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-7-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-7-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-7-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-8-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-8-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-8-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-8-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-9-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-9-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/hero-bg-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\hero-bg-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/language-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\language-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/language-5-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\language-5-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/language-5-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\language-5-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-11.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-11.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-4-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-4-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-4-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-4-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-4-5.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-4-5.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-4-6.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-4-6.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-5-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-5-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-9-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-9-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/newsletter-bg-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\newsletter-bg-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/slider-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\slider-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/slider-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\slider-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/slider-1-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\slider-1-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-11-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-11-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-11-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-11-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-2-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-2-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-4-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-4-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-4-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-4-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/team-7-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\team-7-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-1-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-1-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-1-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-1-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-1-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-1-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-2-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-2-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-5-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-5-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-5-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-5-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-6-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-6-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-6-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-6-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-7-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-7-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/testimonial-bg-12.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\testimonial-bg-12.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/text-slider.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\text-slider.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shape/tution-3-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shape\tution-3-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-2-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-2-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-2-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-sm-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-sm-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-sm-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-sm-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-sm-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-sm-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-sm-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-sm-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-sm-2-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-sm-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-sm-2-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-sm-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/details-sm-2-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\details-sm-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/icon/check.svg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\icon\check.svg
+Content Type: image/svg+xml
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-1-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-10.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-10.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/shop/shop-2-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\shop\shop-2-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/slider/slider-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\slider\slider-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/slider/slider-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\slider\slider-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/slider/slider-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\slider\slider-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/slider/slider-1-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\slider\slider-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/details.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\details.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-1-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-1-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-10-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-10-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-10-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-10-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-10-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-10-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-10-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-11-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-11-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-11-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-11-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-11-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-11-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-11-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-14-1.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-14-1.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-14-2.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-14-2.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-14-3.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-14-3.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-14-4.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-14-4.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-2-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-2-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-10.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-10.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-5.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-6.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-7.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-8.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-4-9.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-4-9.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-7-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-7-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-7-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-8-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-8-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-8-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-8-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/team/team-8-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\team\team-8-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/icon.png
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\icon.png
+Content Type: image/png
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-1-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-1-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-1-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-1-4.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-10-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-12-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-12-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-12-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-2-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-2-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-2-3.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-5-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-5-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-7-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-7-2.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/img/testimonial/thumb-9-1.jpg
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\img\testimonial\thumb-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/countdown.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\countdown.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/imagesloaded-pkgd.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\imagesloaded-pkgd.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/isotope-pkgd.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\isotope-pkgd.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/jquery.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\jquery.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/magnific-popup.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\magnific-popup.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/main.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/nice-select.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\nice-select.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/onepage-nav.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\onepage-nav.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/parallax.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\parallax.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/purecounter.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\purecounter.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/range-slider.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\range-slider.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\slick.min.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/slider.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\slider.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/assets/js/wow.js
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\assets\js\wow.js
+Content Type: text/javascript
+
+Uri: https://ordainit.com/html/educeet/educeet/blog-details-left-sidebar.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\blog-details-left-sidebar.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/blog-details-right-sidebar.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\blog-details-right-sidebar.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/blog-details-without-sidebar.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\blog-details-without-sidebar.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/blog-grid.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\blog-grid.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/blog-sidebar.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/books-shop.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\books-shop.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/career-details.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\career-details.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/career.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\career.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/cart.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\cart.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/checkout.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\checkout.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/childcare.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\childcare.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/contact-me.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\contact-me.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/contact-us.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\contact-us.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/cookup-academy.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\cookup-academy.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-details-v1.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-details-v1.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-details-v2.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-details-v2.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-details-v3.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-details-v3.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-details-v4.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-details-v4.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-grid-sidebar.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-grid-sidebar.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-list-sidebar.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-list-sidebar.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-open-filter.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-open-filter.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v1.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v1.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v10.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v10.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v11.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v11.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v2.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v2.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v3.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v3.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v4.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v4.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v5.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v5.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v6.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v6.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v7.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v7.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v8.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v8.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-v9.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-v9.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/courses-with-filter.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\courses-with-filter.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/event-details.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\event-details.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/event-grid.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\event-grid.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/event-list.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\event-list.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/faq.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\faq.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/fashion-design.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\fashion-design.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/gym-training.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\gym-training.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/index.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\index.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/instructor-showcase.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\instructor-showcase.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/kindergarten.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\kindergarten.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/language-academy.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\language-academy.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/music-platform.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\music-platform.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/online-courses.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\online-courses.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/price.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\price.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/privacy-policy.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\privacy-policy.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/quran-learning.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\quran-learning.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/shop-details.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\shop-details.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/shop-list.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\shop-list.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/shop.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\shop.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/sign-in.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\sign-in.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/sign-up.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\sign-up.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/team-details.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\team-details.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/team.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\team.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/university.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\university.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/yoga-instructor.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\yoga-instructor.html
+Content Type: text/html
+
+Uri: https://ordainit.com/html/educeet/educeet/zoom-metting.html
+File Name: C:\Downloaded Web Sites\ordainit.com\html\educeet\educeet\zoom-metting.html
+Content Type: text/html
+
