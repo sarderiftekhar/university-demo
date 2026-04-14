@@ -366,8 +366,9 @@
 		loop: true,
 		autoplay: true,
 		effect:'fade',
+		speed: 2000,
 		autoplay: {
-			delay: 4000,
+			delay: 10000,
 		},
 		pagination: {
 			el: ".it-slider-dots",
